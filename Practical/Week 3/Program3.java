@@ -81,7 +81,7 @@ public class Program3 {
 	        {
 	        	arr[i]=sc.nextInt();
 	        }
-	        Programw3_3 ob = new Programw3_3();
+	        Program3 ob = new Program3();
 	        ob.heapSort(arr);
 	        ob.check(arr);
 	    }
