@@ -42,7 +42,7 @@ public class Program1 {
         		max=i;
         	}
         }
-        if(p[max]==p[max+1])
+        if(p[max]!=p[max+1])
         {
         	System.out.println("No duplicates Present");
         }
