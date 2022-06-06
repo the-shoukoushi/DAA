@@ -1,4 +1,3 @@
-package daa;
 import java.util.*;
 public class Program2 {
 	 
